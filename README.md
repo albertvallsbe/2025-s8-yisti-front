@@ -57,9 +57,9 @@ Emphasis has been placed on code quality, featuring a modular structure, `SASS` 
 
 ## 4. Demo en línia / Live Demo
 
-**Live:** 👉 https://yisti.netlify.app
-**Usuari / User:** `guest@gmail.com` 
-**Contrasenya / Password:** `guest2025` 
+**Live:** 👉 https://yisti-s8.netlify.app
+**Usuari / User:** `guest@mail.com` 
+**Contrasenya / Password:** `qwerty12` 
 
 **CAT:**
 Visita la demo en línia per veure l’aplicació en funcionament.
